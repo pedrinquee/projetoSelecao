@@ -36,6 +36,8 @@ src/
 
 ---
 
+```
+
 ## 🗄️ Banco de Dados
 
 Banco criado manualmente no MySQL (MySQL Workbench).
