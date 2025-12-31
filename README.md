@@ -24,6 +24,8 @@ src/
 ├── app.js
 └── server.js
 
+```
+
 ## ⚡ Funcionalidades
 
 - CRUD de seleções
