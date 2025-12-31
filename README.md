@@ -28,13 +28,13 @@ src/
 
 ## ⚡ Funcionalidades
 
+```text
 - CRUD de seleções
 - Arquitetura MVC
 - Padrão Repository
 - Integração com MySQL
 - API RESTful
 
-```
 ```
 
 ## 🗄️ Banco de Dados
