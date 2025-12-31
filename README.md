@@ -66,6 +66,9 @@ Servidor em execução:
 
 http://localhost:3000
 
+---
+
+```
 
 📡 Endpoints
 
