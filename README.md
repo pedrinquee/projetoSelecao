@@ -50,8 +50,6 @@ CREATE TABLE selecoes (
     titulos_mundiais TINYINT DEFAULT 0
 );
 
----
-
 ```
 
 ## ▶️ Execução
