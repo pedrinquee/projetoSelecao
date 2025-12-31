@@ -12,8 +12,6 @@ API RESTful simples para gerenciamento de seleções esportivas, desenvolvida co
 - mysql2
 - Nodemon
 
----
-
 ## 📁 Estrutura do Projeto
 
 ```text
@@ -33,8 +31,6 @@ src/
 - Padrão Repository
 - Integração com MySQL
 - API RESTful
-
----
 
 ```
 
